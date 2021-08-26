@@ -3,12 +3,12 @@
 
 ###
 
-## I am a React Lover 😍😍
+## I am a Deep Lover of JacaScript 😍😍
 
-- 📙 I am a learner & currently Learning at **Programming Hero**
+- 📙 I am a learner & Love to learn new Technology also Love to implement it in the real world.
 - 🌱 I'm currently Learning NodeJS and MongoDB
 - 🎯 2021 Goals: Typescript, Redux, NextJS
-- ⚡ Fun Fact: I love to Travel and Explore the World
+- ⚡ Fun Fact: I love to Travel and Explore the World.
 
 ## Connect with Me
 
