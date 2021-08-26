@@ -3,7 +3,7 @@
 
 ###
 
-## I am a Deep Lover of JacaScript 😍😍
+## I am a Deep Lover of JavaScript 😍😍
 
 - 📙 I am a learner & Love to learn new Technology also Love to implement it in the real world.
 - 🌱 I'm currently Learning NodeJS and MongoDB
