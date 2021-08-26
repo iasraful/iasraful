@@ -1,7 +1,5 @@
-![Banner](/assets/bg.png)
-
 <!-- welcome message -->
-<h2>Assalamu Alaikum, I am ASraful Islam. </h2>
+<h2>Assalamu Alaikum, I am Asraful Islam. </h2>
 
 ###
 
