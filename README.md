@@ -5,9 +5,9 @@
 
 ## I am a Deep Lover of JavaScript 😍😍
 
-- 📙 I am a learner & Love to learn new Technology also Love to implement it in the real world.
+- 📙 I am a learner & Love to learn new Technology also Love to implement it in project.
 - 🌱 I'm currently Learning NodeJS and MongoDB
-- 🎯 2021 Goals: Typescript, Redux, NextJS
+- 🎯 2022 Goals: Typescript, Remix, NextJS
 - ⚡ Fun Fact: I love to Travel and Explore the World.
 
 ## Connect with Me
