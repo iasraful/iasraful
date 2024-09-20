@@ -5,14 +5,14 @@
 
 ## I am a Deep Lover of JavaScript 😍😍
 
-- 📙 I am a learner & Love to learn new Technology also Love to implement it in project.
+- 📙 I am a learner & Love to learn new Technology also Love to implement it in projects.
 - 🌱 I'm currently Learning NodeJS and MongoDB
-- 🎯 2022 Goals: Typescript, Remix, NextJS
+- 🎯 2025 Goals: Remix, NextJS, Shopify
 - ⚡ Fun Fact: I love to Travel and Explore the World.
 
 ## Connect with Me
 
-[![Facebook Follow](https://www.facebook.com/ariyanahammed.joy/)](https://www.facebook.com/ariyanahammed.joy/)
+[![Facebook Follow](https://www.facebook.com/asraful.islam.9083)
 
 
 ## Languages and Tools:
