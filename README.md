@@ -7,12 +7,13 @@
 
 - 📙 I am a learner & Love to learn new Technology also Love to implement it in projects.
 - 🌱 I'm currently Learning NodeJS and MongoDB
-- 🎯 2025 Goals: Remix, NextJS, Shopify
+- 🎯 2025 Goals: Remix, NextJS, Nest.js, Shopify
 - ⚡ Fun Fact: I love to Travel and Explore the World.
 
 ## Connect with Me
 
-[![Facebook Follow](https://www.facebook.com/asraful.islam.9083)
+[![![image](https://github.com/user-attachments/assets/99970595-63b9-4311-bb63-3e1bb1a5f27a)
+](https://www.facebook.com/asraful.islam.9083)
 
 
 ## Languages and Tools:
